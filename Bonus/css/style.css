@@ -1,0 +1,72 @@
+header{
+    background-image: url(../img/pattern.png);
+    height:100px;
+    background-size: contain;
+    background-color: rgb(78, 160, 255);
+}
+
+header img{
+    width: 150px;
+    height: 150px;
+}
+
+#align{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+span{
+    color: #87cefa;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.text{
+    font-size: 12px;
+    color:grey;
+    margin-bottom: 10px;
+}
+
+.text-2{
+    font-size: 12px;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+    table-layout: fixed;
+}
+
+tr:nth-child(odd) {
+    background-color: #87cefa;
+}
+
+th{ 
+    background-color:rgb(32, 169, 229);
+
+}
+
+h3{
+    color: grey;
+    font-size: 15px;
+}
+
+.Quadrati{
+    width: 250px;
+    height: 200px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-size: contain;
+}
+
+#immagine-1{
+  background-image: url(../img/monitor.jpg);
+}
+
+#immagine-2{
+  background-image: url(../img/graph.jpg);
+}
